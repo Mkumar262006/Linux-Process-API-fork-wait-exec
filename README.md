@@ -47,7 +47,8 @@ int main(void)
 
 
 ## OUTPUT
-![alt text](<WhatsApp Image 2024-03-29 at 14.11.30_d67771b9.jpg>)
+![image](https://github.com/Mkumar262006/Linux-Process-API-fork-wait-exec/assets/147139472/12839f71-c36b-439d-a30d-dd9def3721bd)
+
 
 
 
@@ -114,7 +115,8 @@ int main() {
 ```
 
 ## OUTPUT
-![alt text](<WhatsApp Image 2024-03-29 at 14.12.12_6a91cbd6.jpg>)
+![image](https://github.com/Mkumar262006/Linux-Process-API-fork-wait-exec/assets/147139472/1d8532f0-39dc-40c8-a3db-9737780d94cc)
+
 
 # RESULT:
 The programs are executed successfully.
