@@ -47,7 +47,7 @@ int main(void)
 
 
 ## OUTPUT
-![image](https://github.com/Mkumar262006/Linux-Process-API-fork-wait-exec/assets/147139472/12839f71-c36b-439d-a30d-dd9def3721bd)
+![image](./output%201%20exp2.png)
 
 
 
@@ -79,7 +79,7 @@ int main() {
 ```
 
 ## OUTPUT
-![image](https://github.com/Mkumar262006/Linux-Process-API-fork-wait-exec/assets/147139472/0aade56a-b582-4246-8765-e03b7b682a20)
+![image](./output%202%20exp2.png)
 
 
 
@@ -115,7 +115,7 @@ int main() {
 ```
 
 ## OUTPUT
-![image](https://github.com/Mkumar262006/Linux-Process-API-fork-wait-exec/assets/147139472/1d8532f0-39dc-40c8-a3db-9737780d94cc)
+![image](./output%203%20exp2.png)
 
 
 # RESULT:
